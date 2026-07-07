@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative AI Whiteboard",
+  "description": "An infinite real-time collaborative whiteboard featuring canvas editing, multiplayer synchronization, and Gemini AI-driven diagram creation and architecture critique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
